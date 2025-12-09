@@ -50,7 +50,11 @@ seaborn
 scikit-learn
 ```
 
+---
+
 ## 🎯 Sonuç ve Yaklaşım
 
-✔ Feature engineering ve model seçimi ile skor daha da iyileştirilebilir
-✔ XGBoost, LightGBM ve stacking yöntemleri ile geliştirmeye devam edilecektir 💡
+- ✔ Feature engineering ve model seçimi ile skor daha da iyileştirilebilir
+- ✔ XGBoost, LightGBM ve stacking yöntemleri ile geliştirmeye devam edilecektir 💡
+
+---
